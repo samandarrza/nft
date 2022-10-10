@@ -1,0 +1,146 @@
+body,
+footer {
+  background-image: url(https://enefti.modeltheme.com/wp-content/uploads/2022/02/Main-slider_pattern.jpg);
+  background-position: 100%;
+  background-size: 100%;
+}
+
+.th1 p {
+  color: white;
+}
+
+.btn-create {
+  background-image: linear-gradient(to right, #D01498, #647ECB, #647ECB, #D01498);
+  overflow: hidden;
+  background-size: 200%;
+  background-position: left;
+  transition: 1s;
+  color: white;
+  font-weight: 700;
+  width: 120px;
+  height: 40px;
+}
+.btn-create:hover {
+  background-position: right;
+  overflow: hidden;
+  color: white;
+}
+
+.text-main {
+  font-size: 60px;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.color {
+  color: #D01498;
+}
+
+.mt-05 {
+  margin-top: 0.5rem;
+}
+
+.text-light:hover {
+  color: #3074f6 !important;
+}
+
+.text-blue {
+  color: #3074f6 !important;
+  cursor: pointer;
+}
+
+.card-h {
+  width: 70px;
+  height: 30px;
+  border: 1px solid gray;
+  background-color: black;
+}
+
+.right {
+  width: 95%;
+  margin-left: 10px;
+  border-bottom: 1px solid red;
+  border-radius: 0 0 5px 5px;
+}
+
+.dark {
+  cursor: pointer;
+}
+.dark:hover {
+  background-color: black;
+  opacity: 0.75;
+}
+
+.none {
+  text-decoration: none;
+}
+
+.padding {
+  padding-top: 1rem;
+}
+
+.img {
+  position: relative;
+  cursor: pointer;
+}
+
+.btn-none {
+  position: absolute;
+  top: 100px;
+  opacity: 0.01;
+}
+.btn-none:hover {
+  width: 140px !important;
+  top: 100px;
+  opacity: 1;
+}
+
+.round {
+  position: absolute;
+  border: 5px solid;
+  width: 15%;
+  border-radius: 50px;
+  top: -20px;
+  left: 43%;
+}
+
+.roundfoot {
+  background-color: #D01498;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+.roundfoot {
+  margin-top: 1px;
+}
+
+.iconfoot {
+  font-size: 30px;
+  color: #fff;
+  margin: auto;
+}
+
+.image {
+  width: 70px;
+  border-radius: 50px;
+  display: inline-block;
+}
+
+.cd:hover {
+  top: 1px;
+  cursor: pointer;
+}
+
+.modal a {
+  text-decoration: none;
+  color: gray;
+}
+
+.modal a:hover {
+  color: blue;
+}/*# sourceMappingURL=style.css.map */
