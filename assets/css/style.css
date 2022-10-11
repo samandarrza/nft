@@ -81,20 +81,20 @@ footer {
   padding-top: 1rem;
 }
 
-.img {
+.aaa {
   position: relative;
   cursor: pointer;
+}
+.aaa:hover .btn-none {
+  width: 140px !important;
+  top: 100px;
+  opacity: 1;
 }
 
 .btn-none {
   position: absolute;
-  top: 100px;
+  top: 200px;
   opacity: 0.01;
-}
-.btn-none:hover {
-  width: 140px !important;
-  top: 100px;
-  opacity: 1;
 }
 
 .round {
