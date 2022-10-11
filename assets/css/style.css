@@ -81,11 +81,11 @@ footer {
   padding-top: 1rem;
 }
 
-.aaa {
+.add {
   position: relative;
   cursor: pointer;
 }
-.aaa:hover .btn-none {
+.add:hover .btn-none {
   width: 140px !important;
   top: 100px;
   opacity: 1;
